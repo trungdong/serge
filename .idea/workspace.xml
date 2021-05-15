@@ -29,17 +29,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a1fce70-954d-4566-bbb2-e0586bdc2e11" name="Default Changelist" comment="Sets default timezone for momentJS in tests.">
-      <change beforePath="$PROJECT_DIR$/packages/components/src/local/molecules/admin-message/__snapshots__/index.spec.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/packages/components/src/local/molecules/admin-message/__snapshots__/index.spec.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/components/src/local/molecules/channel-message-header/__snapshots__/index.spec.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/packages/components/src/local/molecules/channel-message-header/__snapshots__/index.spec.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/components/src/local/molecules/channel-message/__snapshots__/index.spec.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/packages/components/src/local/molecules/channel-message/__snapshots__/index.spec.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/components/src/local/molecules/channel-rfi-message/__snapshots__/index.spec.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/packages/components/src/local/molecules/channel-rfi-message/__snapshots__/index.spec.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/components/src/local/molecules/chat-message/__snapshots__/index.spec.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/packages/components/src/local/molecules/chat-message/__snapshots__/index.spec.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/components/src/local/organisms/admin-messages-list/__snapshots__/index.spec.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/packages/components/src/local/organisms/admin-messages-list/__snapshots__/index.spec.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/components/src/local/organisms/channel-messages-list/__snapshots__/index.spec.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/packages/components/src/local/organisms/channel-messages-list/__snapshots__/index.spec.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/components/src/local/organisms/channel-rfi-messages-list/__snapshots__/index.spec.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/packages/components/src/local/organisms/channel-rfi-messages-list/__snapshots__/index.spec.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/components/src/local/organisms/chat-messages-list/__snapshots__/index.spec.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/packages/components/src/local/organisms/chat-messages-list/__snapshots__/index.spec.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/components/src/local/templates/chat-message-setup/__snapshots__/index.spec.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/packages/components/src/local/templates/chat-message-setup/__snapshots__/index.spec.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/components/src/local/templates/game-admin/__snapshots__/index.spec.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/packages/components/src/local/templates/game-admin/__snapshots__/index.spec.tsx.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/client/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/packages/client/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/client/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/client/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/themes/dependencies/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/packages/themes/dependencies/_fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +45,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -232,6 +228,16 @@
       <workItem from="1618584050787" duration="1411000" />
       <workItem from="1618591905240" duration="1540000" />
       <workItem from="1618593920463" duration="2931000" />
+      <workItem from="1620730872060" duration="2191000" />
+      <workItem from="1620816321987" duration="3647000" />
+      <workItem from="1620823720256" duration="2593000" />
+      <workItem from="1620827329108" duration="7781000" />
+      <workItem from="1620907486240" duration="7158000" />
+      <workItem from="1620916175835" duration="8474000" />
+      <workItem from="1620982245398" duration="19893000" />
+      <workItem from="1621019707854" duration="2556000" />
+      <workItem from="1621022567089" duration="6163000" />
+      <workItem from="1621071361482" duration="2621000" />
     </task>
     <task id="LOCAL-00066" summary="Add Channel Messages List organism">
       <created>1601863472723</created>
@@ -583,12 +589,12 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
+    <option name="COLUMN_ID_ORDER">
       <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
       </list>
     </option>
   </component>

@@ -15,7 +15,7 @@ const runServer = (
   const uniqid = require('uniqid')
 
   const PouchDB = require('pouchdb-core')
-    .plugin(require('pouchdb-adapter-node-websql'))
+    .plugin(require('pouchdb-adapter-leveldb'))
     .plugin(require('pouchdb-adapter-http'))
     .plugin(require('pouchdb-mapreduce'))
     .plugin(require('pouchdb-replication'))

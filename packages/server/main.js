@@ -21,7 +21,7 @@ addons.forEach(addonId => {
 
 server(
   82, // event emmiter max listeners
-  { prefix: 'db/', adapter: 'websql' }, // PouchDb Options
+  { prefix: 'levelupdb/', adapter: 'leveldb' }, // PouchDb Options
   {
     // cors options
     credentials: true,

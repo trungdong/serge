@@ -226,6 +226,7 @@ const runServer = (
         : process.platform === 'win32'
           ? 'start'
           : 'xdg-open'
+    console.log('=> Server Start')
     require('child_process').exec(start + ' ' + `http://localhost:${port}`)
   })
 }
